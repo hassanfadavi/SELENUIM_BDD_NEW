@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="45.683" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Google Navigation" name="Navigate To Google About Page" time="45.476">
+<system-out><![CDATA[
+Given I am on the google web page...........................................passed
+When I click on about button................................................passed
+Then I should see the about page............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
